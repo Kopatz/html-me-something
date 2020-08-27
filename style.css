@@ -1,0 +1,42 @@
+body{
+    background-color: #4287f5;
+}
+
+.center{    
+    margin: auto;
+    width: 80%;
+    background-color: #dce6f5;
+}
+
+.nav{
+    display: inline;
+}
+
+.title{
+    padding-bottom: 5px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline;
+    padding-right: 20px;
+}
+
+#aboutMe, #education, #pastWork{
+    padding-right: 0 10 10 10;
+}
+a{
+    text-decoration: none;
+}
+
+#selfPortrait{
+    height: 150px;
+    width: 150px;
+}
+
+footer{
+    text-align: center;
+}
