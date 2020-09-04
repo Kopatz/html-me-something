@@ -1,0 +1,28 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #4287f5;
+} 
+
+.center{    
+    margin: auto;
+    width: 75%;
+    background-color: #dce6f5;
+    padding: 10px 10px 10px 10px;
+    
+}
+
+ul{
+    padding-left: 0px;
+}
+
+
+
+
+
+footer{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    background-color:  #4287f5;
+}
+ 

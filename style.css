@@ -1,7 +1,7 @@
 body{
+    background-color: #1C1C8C;
     font-family: Helvetica, Arial, sans-serif;
-    background-color: #4287f5;
-} 
+}
 
 .center{    
     margin: auto;
@@ -11,9 +11,6 @@ body{
     
 }
 
-ul{
-    padding-left: 0px;
-}
 .nav {
     margin: 0;
     display: inline-block;
@@ -31,21 +28,12 @@ a{
 }
 
 a:hover{
-    color: white;
+    color: #C8770C;
 }
+
 
 #selfPortrait{
     height: 200px;
     width: 200px;
     float: right;
-
 }
-
-
-footer{
-    margin: auto;
-    width: 80%;
-    text-align: center;
-    background-color:  #4287f5;
-}
- 
