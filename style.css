@@ -51,6 +51,17 @@ footer{
     text-align: center;
 }
 
+.logos{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+}
+
+
+
 a{
     text-decoration: none;
     color:  #1C1C8C;
